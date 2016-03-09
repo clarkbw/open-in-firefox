@@ -1,0 +1,9 @@
+{
+  "name": "org.mozilla.firefox.developer",
+  "description": "Firefox",
+  "path": "/usr/bin/open -a FirefoxDeveloperEdition",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://mdmadoipiccdkjpobflbdicgnfjbanlg/"
+  ]
+}

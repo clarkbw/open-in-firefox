@@ -1,0 +1,9 @@
+{
+  "name": "org.mozilla.firefox.nightly",
+  "description": "Firefox",
+  "path": "/usr/bin/open -a FirefoxNightly",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://mdmadoipiccdkjpobflbdicgnfjbanlg/"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "org.mozilla.firefox",
+  "description": "Firefox",
+  "path": "/usr/bin/open -a Firefox",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://mdmadoipiccdkjpobflbdicgnfjbanlg/"
+  ]
+}

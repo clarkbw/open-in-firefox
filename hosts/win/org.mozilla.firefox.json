@@ -1,0 +1,9 @@
+{
+  "name": "org.mozilla.firefox",
+  "description": "Firefox",
+  "path": "C:\\Program Files\\My Application\\firefox.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://mdmadoipiccdkjpobflbdicgnfjbanlg/"
+  ]
+}
